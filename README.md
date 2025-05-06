@@ -21,7 +21,7 @@ PORT=5000
 
 
 
-Setup the Client folder
+Setup the Client(in React) folder
 
 
 cd Client
